@@ -1,0 +1,7 @@
+chicken
+dog
+dictionary
+pig
+horse
+whale
+and so on 
